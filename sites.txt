@@ -9,3 +9,4 @@
 *jyllandsposten.dk
 *Berlingske.dk
 *jyllands-posten.dk
+*politiken.dk
