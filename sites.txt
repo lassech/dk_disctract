@@ -3,5 +3,8 @@
 *B.dk
 *Jp.dk
 *Pol.dk
-*Informationen.dk
+*Information.dk
 *Eb.dk
+*ekstrabladet.dk
+*jyllandsposten.dk
+*Berlingske.dk
