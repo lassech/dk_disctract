@@ -10,3 +10,4 @@
 *Berlingske.dk
 *jyllands-posten.dk
 *politiken.dk
+*bt.dk
